@@ -14,7 +14,6 @@
 <a href="#"><img title="DEVIN CARLO" src="https://img.shields.io/badge/DEVINCARLO-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/DEVINCA6LO"><img title="Author" src="https://img.shields.io/badge/DEVINCARLO-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 <p align="center">
@@ -57,10 +56,10 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click Pikachu logo to Join Support Group 2👇
+Click Carlo logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="Devincarlo.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
