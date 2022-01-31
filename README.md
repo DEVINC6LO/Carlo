@@ -17,7 +17,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/DEVINCA6L0">DEVINCA6LO</a> to make it public
+Project created by <a href="https://github.com/DEVINC6L0">DEVINC6LO</a> to make it public
     <br>
        | © |
         Reserved |
@@ -38,9 +38,9 @@ Project created by <a href="https://github.com/DEVINCA6L0">DEVINCA6LO</a> to mak
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="ameer-kallumthodi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DEVINC6LO&show_icons=true&theme=dark&locale=en" alt="DEVINC6LO" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="ameer-kallumthodi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DEVINC6LO&theme=dark" alt="DEVINC6LO" /></p>
 </p>
 
 
@@ -69,7 +69,7 @@ Click Carlo logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/DEVINCA6LO/Carlo.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/DEVINC76LO/Carlo.git)
      </div>
 <br>
 <br >
@@ -89,8 +89,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/DEVINC6LO/Carlo
+$ cd Carlo
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -99,8 +99,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/DEVINC6LO/Carlo
+$ cd Carlo
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -113,14 +113,14 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Pikachu executives do not accept responsibility.
+Absolutely, Carlo executives do not accept responsibility.
 By establishing the Pikachu, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![DEVINC6LO](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/DEVINC6LO) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
 [Ameer Suhail](https://github.com/ameer-kallumthodi) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
